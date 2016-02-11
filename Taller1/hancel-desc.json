@@ -1,0 +1,291 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sat Oct 10 05:55:36 +0000 2009", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Cualquier refran que pegue con Salao. MetroUsuario. Ingeniero de Computacion. Hay quienes esten peor. That''s me.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    }, 
+    "favourites_count": 76, 
+    "follow_request_sent": null, 
+    "followers_count": 360, 
+    "following": null, 
+    "friends_count": 551, 
+    "geo_enabled": true, 
+    "has_extended_profile": true, 
+    "id": 81292289, 
+    "id_str": "81292289", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "es", 
+    "listed_count": 6, 
+    "location": "Desde mi computador portatil.", 
+    "name": "Hancel Gonzalez", 
+    "notifications": null, 
+    "profile_background_color": "131516", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/211133009/linkin-park_logo.jpg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/211133009/linkin-park_logo.jpg", 
+    "profile_background_tile": true, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/81292289/1406331139", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/457265337671897088/JeSj3WVB_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/457265337671897088/JeSj3WVB_normal.jpeg", 
+    "profile_link_color": "4A913C", 
+    "profile_location": null, 
+    "profile_sidebar_border_color": "000000", 
+    "profile_sidebar_fill_color": "EFEFEF", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "leroygordo", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Jan 16 22:25:52 +0000 2016", 
+        "entities": {
+            "hashtags": [], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/cHg98yBUys", 
+                    "expanded_url": "http://twitter.com/geonoticias24/status/684749249737830400/photo/1", 
+                    "id": 684749248689270784, 
+                    "id_str": "684749248689270784", 
+                    "indices": [
+                        52, 
+                        75
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CYC30FBW8AAcF8S.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CYC30FBW8AAcF8S.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 489, 
+                            "resize": "fit", 
+                            "w": 1000
+                        }, 
+                        "medium": {
+                            "h": 293, 
+                            "resize": "fit", 
+                            "w": 600
+                        }, 
+                        "small": {
+                            "h": 166, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "source_status_id": 684749249737830400, 
+                    "source_status_id_str": "684749249737830400", 
+                    "source_user_id": 4697243604, 
+                    "source_user_id_str": "4697243604", 
+                    "type": "photo", 
+                    "url": "https://t.co/cHg98yBUys"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 396940583, 
+                    "id_str": "396940583", 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "name": "Pasala Full...!!!", 
+                    "screen_name": "EventosUSB"
+                }
+            ]
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/cHg98yBUys", 
+                    "expanded_url": "http://twitter.com/geonoticias24/status/684749249737830400/photo/1", 
+                    "id": 684749248689270784, 
+                    "id_str": "684749248689270784", 
+                    "indices": [
+                        52, 
+                        75
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CYC30FBW8AAcF8S.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CYC30FBW8AAcF8S.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 489, 
+                            "resize": "fit", 
+                            "w": 1000
+                        }, 
+                        "medium": {
+                            "h": 293, 
+                            "resize": "fit", 
+                            "w": 600
+                        }, 
+                        "small": {
+                            "h": 166, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "source_status_id": 684749249737830400, 
+                    "source_status_id_str": "684749249737830400", 
+                    "source_user_id": 4697243604, 
+                    "source_user_id_str": "4697243604", 
+                    "type": "photo", 
+                    "url": "https://t.co/cHg98yBUys"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 688487360187740160, 
+        "id_str": "688487360187740160", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "es", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 10, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat Jan 16 21:55:19 +0000 2016", 
+            "entities": {
+                "hashtags": [], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/cHg98yBUys", 
+                        "expanded_url": "http://twitter.com/geonoticias24/status/684749249737830400/photo/1", 
+                        "id": 684749248689270784, 
+                        "id_str": "684749248689270784", 
+                        "indices": [
+                            36, 
+                            59
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/CYC30FBW8AAcF8S.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/CYC30FBW8AAcF8S.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 489, 
+                                "resize": "fit", 
+                                "w": 1000
+                            }, 
+                            "medium": {
+                                "h": 293, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "small": {
+                                "h": 166, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "source_status_id": 684749249737830400, 
+                        "source_status_id_str": "684749249737830400", 
+                        "source_user_id": 4697243604, 
+                        "source_user_id_str": "4697243604", 
+                        "type": "photo", 
+                        "url": "https://t.co/cHg98yBUys"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/cHg98yBUys", 
+                        "expanded_url": "http://twitter.com/geonoticias24/status/684749249737830400/photo/1", 
+                        "id": 684749248689270784, 
+                        "id_str": "684749248689270784", 
+                        "indices": [
+                            36, 
+                            59
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/CYC30FBW8AAcF8S.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/CYC30FBW8AAcF8S.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 489, 
+                                "resize": "fit", 
+                                "w": 1000
+                            }, 
+                            "medium": {
+                                "h": 293, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "small": {
+                                "h": 166, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "source_status_id": 684749249737830400, 
+                        "source_status_id_str": "684749249737830400", 
+                        "source_user_id": 4697243604, 
+                        "source_user_id_str": "4697243604", 
+                        "type": "photo", 
+                        "url": "https://t.co/cHg98yBUys"
+                    }
+                ]
+            }, 
+            "favorite_count": 13, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 688479670086553600, 
+            "id_str": "688479670086553600", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "es", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 10, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+            "text": "Atardecer en el Puente de Angostura https://t.co/cHg98yBUys", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @EventosUSB: Atardecer en el Puente de Angostura https://t.co/cHg98yBUys", 
+        "truncated": false
+    }, 
+    "statuses_count": 5911, 
+    "time_zone": "Caracas", 
+    "url": null, 
+    "utc_offset": -16200, 
+    "verified": false
+}
